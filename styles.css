@@ -49,6 +49,7 @@ nav {
     position: relative;
     width: 89%;
     margin: auto;
+    column-gap: 27px;
 }
 
 ul {
