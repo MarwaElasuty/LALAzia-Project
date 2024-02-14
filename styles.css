@@ -72,7 +72,7 @@ ul a {
 
 .nav-btns {
     display: flex;
-    column-gap: 20px;
+    column-gap: 30px;
     align-items: center;
 }
 
@@ -757,7 +757,7 @@ img[alt="product"] {
     align-items: center;
     flex-wrap: wrap;
     row-gap: 15px;
-    width: 79%;
+    width: 86%;
 }
 .filter > div:nth-of-type(1){
     display: flex;
