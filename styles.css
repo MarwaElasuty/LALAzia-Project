@@ -992,6 +992,8 @@ img[alt="testimonial"] {
     display: flex;
     align-items: center;
     column-gap: 10px;
+    flex-wrap: wrap;
+    row-gap: 8px;
 }
 
 .rating {
@@ -2012,7 +2014,7 @@ button[name="lets-talk-btn"] {
 }
 
 .benefits-desc-service-page>div:nth-of-type(2) {
-    width: 49%;
+    width: 46%;
     margin-top: 100px;
 
 }
@@ -2920,6 +2922,9 @@ footer {
     .footer-details {
         width: 100%;
     }
+    footer{
+        width: 85%;
+    }
 }
 
 @media screen and (max-width: 992px) and (min-width:786px) {
@@ -2929,6 +2934,9 @@ footer {
 
     .footer-details {
         width: 100%;
+    }
+    footer{
+        width: 85%;
     }
 }
 
@@ -2940,6 +2948,9 @@ footer {
     .footer-details {
         width: 100%;
     }
+    footer{
+        width: 85%;
+    }
 }
 
 @media screen and (max-width: 600px) {
@@ -2949,6 +2960,9 @@ footer {
 
     .footer-details {
         width: 100%;
+    }
+    footer{
+        width: 85%;
     }
 }
 
